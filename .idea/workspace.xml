@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="074a7ea2-1a64-4342-ae86-32023f0a487f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Inheritance_Override_Overload/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_Override_Overload/src/Tiger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

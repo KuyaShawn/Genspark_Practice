@@ -16,7 +16,7 @@ public class Tiger extends Animal {
     }
 
     // Override example
-    // we have overridden the makeSound() method in the Tiger class to print out\
+    // we have overridden the makeSound() method in the Tiger class to print out
     // "roars!" instead of "makes a sound"
     // This allows us to define a new implementation of a method in a subclass that
     // has the same name, return type, and parameters as a method in its superclass.
